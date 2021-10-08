@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <GLFW/glfw3.h>
-const double G = 0.00000002;
+const double G = 0.0000001;
 const double PI = 3.14159265358979;
 double min(double a, double b) { return a < b ? a : b; }
 double max(double a, double b) { return a > b ? a : b; }
@@ -74,10 +74,10 @@ struct obj2
 		double d2 = (dist2(p))/(sqrt(G));
 		k = k * (G * p.m / d2);
 		v = v + k;
-		if (v.length() > 0.001)
+		if (v.length() > 0.1)
 		{
 			v.norm();
-			v = v * 0.001;
+			v = v * 0.1;
 		}
 
 	}
@@ -145,7 +145,7 @@ struct obj3
 		}
 	}
 };
-const int num = 200;
+const int num = 300000;
 obj2* a;
 //obj3* b;
 int main()
@@ -188,7 +188,7 @@ int main()
 	obj2 mid = obj2(0,0,M,vector2(0,0));
 	//obj3 mid = obj3(0,0,0,M,vector3(0,0,0));
 	//double a1, a2, a3;
-	double msX, msY, zoom = 50;
+	double msX, msY, zoom = 30;
 	int msState;
 	if (w > h)
 		glScalef((float)h / (float)w, 1.0f, 1.0f);
@@ -219,24 +219,21 @@ int main()
 		//	//b[i].change(mid);
 		//}
 		//glBegin(GL_QUADS);
-		glColor4d(1, 1, 1, 1);
+		glColor4d(1, 1, 1, 0.1);
 		glBegin(GL_POINTS);
-		#pragma omp parallel shared(a) 
+		#pragma omp parallel shared(a)
 		{
-			double a1;// , a2;
+			double a1, a2;
 			for (int i = 0; i < num; i++)
 			{
 				a[i].change(mid);
 				a[i].move();
 				a1 = a[i].x;
-				//a2 = a[i].y;
+				a2 = a[i].y;
 				if (abs(a1) > 50)
 					a1 = -a1;//a[i].v.x = -a[i].v.x;
-				a[i].x = a1;
-				a1 = a[i].y;
-				if (abs(a1) > 50)
-					a1 = -a1;//a[i].v.y = -a[i].v.y;
-				a[i].y = a1;
+				if (abs(a2) > 50)
+					a2 = -a2;//a[i].v.y = -a[i].v.y;
 				//if (a[i].m == 100)
 				//	glColor3d(0, 0, 1);
 				//else if (a[i].m == 10000)
@@ -244,6 +241,8 @@ int main()
 				//else if (a[i].m == 100000000)
 				//	glColor3d(1, 0, 0);
 				glVertex2d(a[i].x, a[i].y);
+				a[i].x = a1;
+				a[i].y = a2;
 			}
 		}
 		/*double a1, a2;
