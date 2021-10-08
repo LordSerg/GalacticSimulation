@@ -1,2 +1,5 @@
 ﻿  Galactic3.cpp
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(197,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(197,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(197,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
   Galactic3.vcxproj -> D:\_My_Projects\_Моделирование галактики\Galactic3\Debug\Galactic3.exe
