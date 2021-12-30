@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <GLFW/glfw3.h>
+//попытка обобщения в 2д и 3д для любой метрики (не только эвклидовой)
 namespace oknelaksoms
 {
 	const double G = 0.000001;//отвечает за силу притяжения

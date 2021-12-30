@@ -1,43 +1,21 @@
 ﻿  Galactic3.cpp
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(26,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(26,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(26,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(26,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(53,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(83,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(83,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(83,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(83,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(84,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(84,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(90,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(90,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(90,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(90,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(101,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(101,1): warning C4305: 'argument': truncation from 'const double' to 'float'
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(142,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(143,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(143,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(150,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(160,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(160,1): warning C4305: 'argument': truncation from 'const double' to 'float'
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(240,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(240,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(240,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\constants.h(6,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\constants.h(7,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(133,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(133,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(136,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(136,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(136,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(203,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(203,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(206,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(206,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\engine2D.h(206,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(59,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(59,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(59,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(118,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(118,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\_My_Projects\_Моделирование галактики\Galactic3\Galactic3\Galactic3.cpp(179,16): warning C4305: '*=': truncation from 'double' to 'float'
   Galactic3.vcxproj -> D:\_My_Projects\_Моделирование галактики\Galactic3\Debug\Galactic3.exe
