@@ -37,6 +37,9 @@ int main()
 	//Init2D(num);
 	Init(num);
 	int w = 1280, h = 1024;
+	const GLFWvidmode* mode = glfwGetVideoMode(glfwGetPrimaryMonitor());
+	w = mode->width;
+	h = mode->height;
 	double msX, msY;
 	//int w = 640, h = 512;
 	int statR, statL, statD, statU, statQ, statE, statZ, statX;
